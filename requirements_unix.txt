@@ -20,7 +20,7 @@ MarkupSafe==2.1.5
 marshmallow==3.21.1
 multidict==6.0.5
 packaging==24.0
-psycopg2==2.9.9
+psycopg2-binary
 pydantic==2.5.3
 pydantic-settings
 pydantic_core==2.14.6
