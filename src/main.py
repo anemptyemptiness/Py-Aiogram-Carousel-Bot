@@ -1,6 +1,3 @@
-from src.db import DB
-DB.my_script()
-
 import asyncio
 import logging
 import sys
